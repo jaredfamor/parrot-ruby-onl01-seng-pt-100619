@@ -1,5 +1,5 @@
 def parrot_greeting(action = "Squawk!")
-  puts "Squawk!"
+  puts #{action}
   action
 end
 parrot_greeting("Preety birds!")
