@@ -1,4 +1,4 @@
-def parrot_greeting(action = "Squawk!")
-  puts #{action}
+def parrot(phrase = "Squawk!")
+  puts #{phrase}
   return "Squawk!"
 end
