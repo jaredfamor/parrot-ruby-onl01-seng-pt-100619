@@ -1,4 +1,4 @@
 def parrot(action = "Squawk!")
   puts "Squawk!"
-  action
+  "Pretty bird! action."
 end
