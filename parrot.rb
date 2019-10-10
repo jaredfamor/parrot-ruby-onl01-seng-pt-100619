@@ -1,4 +1,4 @@
-def parrot(action = "Squawk!", looks)
+def parrot(action = "Squawk!")
   puts "Squawk!"
   puts #{looks}
   action
