@@ -1,4 +1,4 @@
-def parrot(action = "Squawk!")
+def parrot(action = "Pretty bird!")
   puts "Squawk!"
   action
 end
