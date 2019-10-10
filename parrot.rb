@@ -1,5 +1,4 @@
 def parrot(action = "Squawk!")
-  puts "Squawk!"
+  puts "Squawk! Pretty bird!"
   action
-  puts "Pretty bird!"
 end
